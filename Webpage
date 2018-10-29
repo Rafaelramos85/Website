@@ -1,0 +1,38 @@
+<!DOCTYPE.html>
+<html>
+	<head>
+		<title> 
+			Car Parts
+		</title>
+	</head>
+
+	<body>
+		<link rel="stylesheet" href="webpage.css">
+			
+			<h1> The Car Part Depot </h1>
+	
+			<p><b> Links to other websites </b></p>
+			<header>
+				<nav>
+                	<ul>
+                	    <li><a href="http://www.socalsupertrucks.com/"> <b>SoCal 								Supertrucks</b></a></li>
+                	    <li><a href="https://www.customwheeloffset.com"><b>Custom Offsets</b></a></li>
+                	    <li><a href="https://www.cjponyparts.com/"><b>Cj Pony Parts</b></a></li><br>
+                	</ul>
+				</nav>
+	
+		<figure>
+			<table>
+				<table align="center">
+   		 		<br></td></tr><td> Body parts<br><img src= "car.jpg" alt= "car" width= "150" 						height="150"></td>
+				<td> Suspension <br><img src="suspension.jpg" alt= "suspension" width= "150" height= 						"150"</td></tr>
+				<tr><td> Wheels and Tires <br><img src="wheels.jpg" alt= "Wheels and Tires" 					width="150" height="150"</td>
+				<td>Engine parts<br><img src="engine.jpg" alt="engine" width="150" 						height="150"></td></tr>
+			</table>
+		</figure>	
+	</body>
+
+</html>
+			
+
+

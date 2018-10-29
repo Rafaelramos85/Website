@@ -1,0 +1,33 @@
+		
+			body { margin: 0; background-color: Black ; color: white;}
+			body>header { text-align: center; }
+			body>header>nav>ul 
+				{
+    				margin: 0;
+    				padding: 0;
+    				background-color: DimGray;
+    				list-style-type: none;
+				}
+			body>header>nav>ul>li { display: inline-block; }
+			body>header>nav>ul>li:hover { background-color: Purple; }
+			body>header>nav>ul>li:active { background-color: Blue; }
+			body>header>nav>ul>li>a 
+				{
+    				display: block;
+    				padding: 1em;
+    				color: White;
+    				text-decoration: underline;
+					word-spacing: 3px;
+				}
+			body>main { padding: 1em; }
+
+			h1 { text-align: center; color: white;} 
+			table { text-align: center; }
+			body { text-align: center; }
+			figure {
+        				margin: 3em;
+       					padding: 1em;
+        				border: 1em solid; color: Dimgrey;
+						content: text-align: center;
+  					}
+		
